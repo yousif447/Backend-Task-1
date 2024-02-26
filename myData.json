@@ -1,0 +1,14 @@
+[
+  { "id": 1, "fname": "yousif", "lname": "adel", "age": 21, "city": "cairo" },
+  { "id": 3, "fname": "ahmed", "lname": "ali", "age": 30, "city": "alex" },
+  { "id": 5, "fname": "mahmoud", "lname": "wael", "age": 25, "city": "cairo" },
+  {
+    "id": 7,
+    "fname": "abdelrahman",
+    "lname": "shaban",
+    "age": 26,
+    "city": "mansoura"
+  },
+  { "id": 9, "fname": "adel", "lname": "zayd", "age": 61, "city": "cairo" },
+  { "id": 10, "fname": "magdy", "lname": "ahmed", "age": 40, "city": "cairo" }
+]
